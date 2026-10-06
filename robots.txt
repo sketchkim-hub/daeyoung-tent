@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sketchkim-hub.github.io/daeyoung-tent/sitemap.xml
